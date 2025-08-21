@@ -1,0 +1,45 @@
+# -------------------
+# Python cache files
+# -------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------
+# Virtual environments
+# -------------------
+venv/
+env/
+.venv/
+
+# -------------------
+# Jupyter Notebook checkpoints
+# -------------------
+.ipynb_checkpoints/
+
+# -------------------
+# Large data files
+# -------------------
+*.csv
+*.xlsx
+
+# -------------------
+# Model files (keep local, don’t upload large binaries)
+# -------------------
+*.pkl
+*.h5
+
+# -------------------
+# OS / IDE specific files
+# -------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# -------------------
+# Environment variables (secrets, API keys)
+# -------------------
+.env
+
