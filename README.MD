@@ -24,27 +24,16 @@ car-price-prediction-app/
 │── .gitignore # Git ignore rules
 │── README.md # This file
 
-yaml
-Copy
-Edit
 
----
 
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
-```bash
 git clone https://github.com/Mr-Vaibhav19/car-price-prediction-app.git
 cd car-price-prediction-app
 2️⃣ Install dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
 3️⃣ Run the app
-bash
-Copy
-Edit
 streamlit run app.py
 ➡️ Open in browser: http://localhost:8501
 
